@@ -1,6 +1,6 @@
 # Achilles D.
 
-## [LinkedIn](linkedin.com/in/achillesd)
+## [LinkedIn](http://www.linkedin.com/in/achillesd)
 
-## [GitHub](github.com/achilles-d)
+## [GitHub](http://www.github.com/achilles-d)
 
