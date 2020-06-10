@@ -1,6 +1,11 @@
-# Achilles D.
+# Achilles D. 
 
-## [LinkedIn](http://www.linkedin.com/in/achillesd)
+## **Majors: Electrical and Computer Engineering / Computer Science**
+### _Duke University Pratt School of Engineering Class of 2022_
 
-## [GitHub](http://www.github.com/achilles-d)
+## Links
+
+### [LinkedIn](http://www.linkedin.com/in/achillesd)
+### [GitHub](http://www.github.com/achilles-d)
+### [Devpost](https://devpost.com/achilles-d)
 
