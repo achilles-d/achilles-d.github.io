@@ -1,13 +1,12 @@
 .banner-container {
-    display: flex;
     padding: 5%;
 }
-.section-banner-right {
-    flex-basis: 80%;
+.section-banner {
+    text-align: center;
 }
-.section-banner-left {
+/* .section-banner-left {
     flex-basis: 20%;
-}
+} */
 .title-banner-text {
     font-size: 100px;
     text-align: center;
@@ -15,6 +14,9 @@
 .subtitle-banner-text {
     font-size: 50px;
     text-align: center;
+}
+.about-container{
+    
 }
 .profile-pic-container {
     background-color: teal;
