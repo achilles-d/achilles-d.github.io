@@ -16,9 +16,15 @@
 .about-text {
     /* padding-left: 20%;
     padding-right: 1%; */
-    font-size: 40px;
+    font-size: 300%;
     text-align: left;
     float: left;
+}
+.about-interests {
+    font-size: 75%;
+}
+.about-narrative {
+    font-size: 50%
 }
 .profile-pic-container {
     background-color: teal;
@@ -34,7 +40,7 @@
 }
 .duke-text {
     text-align: justify;
-    padding-right: 3%;
+    padding-left: 1%;
     font-size: 250%;
 }
 .duke-image {
@@ -47,7 +53,7 @@
 }
 .hills-text {
     text-align: justify;
-    padding-right: 3%;
+    padding-left: 1%;
     font-size: 250%;
 }
 .hills-image {
@@ -64,12 +70,13 @@
 }
 .caci-text {
     text-align: justify;
-    padding-right: 3%;
-    font-size: 250%;
+    padding-left: 1%;
+    font-size: 200%;
 }
 .caci-image {
     /* padding-right: 3%; */
     margin-right: 1%;
+    width: 20%;
 }
 .coned-container {
     display: flex;
@@ -77,11 +84,87 @@
 }
 .coned-text {
     text-align: justify;
-    padding-right: 3%;
-    font-size: 250%;
+    padding-left: 3%;
+    font-size: 200%;
 }
 .coned-image {
     /* padding-right: 3%; */
     margin-right: 1%;
+    width: 30%;
 }
+.project-title {
+    font-size: 150%;
+}
+.projects-container {
+    display: flex;
+    margin: 1%;
+}
+.easepapr-container {
+    display: flex;
+    margin: 1%;
+}
+.easepapr-text {
+    text-align: justify;
+    padding-left: 3%;
+    font-size: 200%;
+}
+.easpapr-image {
+    /* padding-right: 3%; */
+    width: 50%;
+    margin-right: 1%;
+}
+.gyft-container {
+    display: flex;
+    margin: 1%;
+}
+.gyft-text {
+    text-align: justify;
+    padding-left: 1%;
+    font-size: 200%;
+}
+.gyft-image {
+    width: 50%;
+    margin-right: 1%;
+}
+.qiskit-container {
+    display: flex;
+    margin: 1%;
+}
+.qiskit-text {
+    text-align: justify;
+    padding-left: 1%;
+    font-size: 200%;
+}
+.qiskit-image {
+    width: 27%;
+    margin-right: 1%;
+}
+.owm-container {
+    display: flex;
+    margin: 1%;
+}
+.owm-text {
+    text-align: justify;
+    padding-left: 1%;
+    font-size: 200%;
+}
+.owm-image {
+    width: 21%;
+    margin-right: 1%;
+}
+.ama-container {
+    display: flex;
+    margin: 1%;
+}
+.ama-text {
+    text-align: justify;
+    padding-left: 1%;
+    font-size: 200%;
+}
+.ama-image {
+    width: 19%;
+    margin-right: 1%;
+}
+
+
 
