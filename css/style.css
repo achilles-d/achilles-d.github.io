@@ -23,7 +23,10 @@
 .about-interests {
     font-size: 75%;
 }
-.about-narrative {
+.about-narrative-title {
+    font-size: 75%;
+}
+.about-narrative-body {
     font-size: 50%
 }
 .profile-pic-container {
