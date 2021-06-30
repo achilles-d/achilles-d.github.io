@@ -67,6 +67,20 @@
     display: flex;
     margin: 1%;
 }
+.gm-container {
+    display: flex;
+    margin: 1%;
+}
+.gm-text {
+    text-align: justify;
+    padding-left: 1%;
+    font-size: 200%;
+}
+.gm-image {
+    /* padding-right: 3%; */
+    margin-right: 1%;
+    width: 14%;
+}
 .caci-container {
     display: flex;
     margin: 1%;
@@ -93,7 +107,7 @@
 .coned-image {
     /* padding-right: 3%; */
     margin-right: 1%;
-    width: 30%;
+    width: 32%;
 }
 .project-title {
     font-size: 150%;
